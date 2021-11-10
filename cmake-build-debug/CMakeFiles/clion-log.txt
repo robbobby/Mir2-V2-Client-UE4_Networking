@@ -1,0 +1,8 @@
+"/Users/rob/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/rob/Dev/c++/Mir2-V2_Networking
+CMake Error at CMakeLists.txt:6 (TARGET_INCLUDE_DIRECTORIES):
+  Cannot specify include directories for target "asio" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/rob/Dev/c++/Mir2-V2_Networking/cmake-build-debug/CMakeFiles/CMakeOutput.log".
